@@ -4,6 +4,18 @@ Bakanlık hizmeti olan Mernis service ile hazırlamış olduguğum uygulamamda a
 
 ![Mernis](https://github.com/kubilayytpkts/MERNIS-SERVICE-KULLANIMI/assets/119957098/dbadd043-01e8-45d1-8b07-65fab8fd9de9)
 
+
+
+
+
+
+
+
+
+
+
+
+
 girilen bilgilere ait bir vatandaş bulunursa sistemin vermiş oldugu mesaj
 ![mernis dogrulama](https://github.com/kubilayytpkts/MERNIS-SERVICE-KULLANIMI/assets/119957098/958fd631-0bbd-4abd-9026-f545632c6a35)
 
