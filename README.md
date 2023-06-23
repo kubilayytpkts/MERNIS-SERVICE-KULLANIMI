@@ -22,6 +22,6 @@ girilen bilgilere ait bir vatandaş bulunursa sistemin vermiş oldugu mesaj
 
 girilen bilgilere ait bir vatandaş bulunmazsa sistemin vermiş oldugu mesaj
 
-giri![mernis reddetme](https://github.com/kubilayytpkts/MERNIS-SERVICE-KULLANIMI/assets/119957098/e13234ee-faf8-4e6c-adda-c9a94767c133)
+![mernis reddetme](https://github.com/kubilayytpkts/MERNIS-SERVICE-KULLANIMI/assets/119957098/e13234ee-faf8-4e6c-adda-c9a94767c133)
 
 
